@@ -1,0 +1,3 @@
+fault_distance_km,fault_type,velocity_effect_mm_yr,slope_effect_m_km,slope_p_value,roughness_effect_m,roughness_p_value,slope_significant,roughness_significant,any_geomorphic_change
+12.431999999999928,Right Lateral,-1.7162613324820994,0.16331398487091064,0.695037382894493,0.0712890625,0.7004592780077927,False,False,False
+51.648000000001204,Left Lateral,1.3163624174748771,3.774824500083925,0.04470840052345235,4.819091796875,0.023233255486432465,True,True,True
