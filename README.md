@@ -28,7 +28,6 @@ This repository contains the code and outputs for my MSc dissertation on **verti
 │   ├── Basin_2.shp
 │   ├── …  
 │   └── Basin_14.shp
-│   └── gnss_benchmarking/ 
 └── README.md                 # Project overview
 
 ```
