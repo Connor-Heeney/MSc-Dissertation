@@ -54,5 +54,5 @@ Dataset references:
 - HydroSHEDS (https://www.hydrosheds.org/)
 - CAFD faults (https://essd.copernicus.org/articles/16/3391/2024/)
 - Esri Land Cover (https://livingatlas.arcgis.com/landcover/)
-- GNSS (https://data.mendeley.com/datasets/k6t8rkh4pd/1)
+- GNSS (1970 - 2017) (https://data.mendeley.com/datasets/k6t8rkh4pd/1)
 - Copernicus DEM GLO-30 (https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3)
