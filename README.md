@@ -48,4 +48,10 @@ Outputs are generated directly by the pipeline; rerunning scripts will overwrite
 
 The file sizes of the fault and GNSS data are too large to upload to this repository. To download both layers, please follow the links provided below. The GNSS data is ready to use as soon as it is downloaded, whilst the fault data needs to be loaded into QGIS and converted from singlepart to multipart before processing. 
 
-Dataset references: Vu dataset (Ou et al., 2022), HydroSHEDS (https://www.hydrosheds.org/), CAFD faults (https://essd.copernicus.org/articles/16/3391/2024/), Esri Land Cover (https://livingatlas.arcgis.com/landcover/), GNSS (https://data.mendeley.com/datasets/k6t8rkh4pd/1), Copernicus DEM GLO-30 (https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3).
+Dataset references: 
+
+- Vu dataset (Ou et al., 2022 - https://data.ceda.ac.uk/neodc/comet/publications_data/Ou_et_al_JGR_2022/v1.0/5_cartesian_velocities)
+- HydroSHEDS (https://www.hydrosheds.org/), CAFD faults (https://essd.copernicus.org/articles/16/3391/2024/)
+- Esri Land Cover (https://livingatlas.arcgis.com/landcover/)
+- GNSS (https://data.mendeley.com/datasets/k6t8rkh4pd/1)
+- Copernicus DEM GLO-30 (https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3)
