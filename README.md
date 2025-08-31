@@ -16,13 +16,19 @@ This repository contains the code and outputs for my MSc dissertation on **verti
 │   ├── longitudinal_profile_advanced_analytics.py
 │   ├── test_*                # Validation and testing scripts
 │
-├── outputs/                  # Model and analysis outputs
-│   ├── Basin_1/              # Outputs for individual basins
-│   ├── Basin_2/  
-│   ├── …  
-│   └── Basin_14/  
-│   └── gnss_benchmarking/    # Global benchmarking results (not per-basin)
+├── outputs/                  # Model and analysis outputs within each subfolder
+│   ├── descriptive_stats/              
+│   ├── gnss_benchmarking/    # Global benchmarking results (not per-basin)
+│   ├── longitudinal_profile_overview
+│   └── longitudinal_profile_advanced_analytics
 │
+│├── data/
+│   ├── rivers/               # rivers for each basin with sampled Vu, elevation, roughness, land cover, and slope              
+│   ├── Basin_1.shp         
+│   ├── Basin_2.shp
+│   ├── …  
+│   └── Basin_14.shp
+│   └── gnss_benchmarking/ 
 └── README.md                 # Project overview
 
 ```
@@ -40,5 +46,7 @@ cd MSc-Dissertation
 All scripts are written in Python 3.10.11
 
 Outputs are generated directly by the pipeline; rerunning scripts will overwrite existing results.
+
+The file sizes of the fault and GNSS data are too large to upload to this repository. To download both layers, please follow the links provided below. The GNSS data is ready to use as soon as it is downloaded, whilst the fault data needs to be loaded into QGIS and converted from singlepart to multipart before processing. 
 
 Dataset references: Vu dataset (Ou et al., 2022), HydroSHEDS (https://www.hydrosheds.org/), CAFD faults (https://essd.copernicus.org/articles/16/3391/2024/), Esri Land Cover (https://livingatlas.arcgis.com/landcover/), GNSS (https://data.mendeley.com/datasets/k6t8rkh4pd/1), Copernicus DEM GLO-30 (https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3).
