@@ -1,0 +1,6 @@
+fault_distance_km,fault_type,raw_effect_mm_yr,p_value_raw,p_value_fdr,truly_significant,significant_fdr,window_km_used,n_faults_consolidated,drainage_class,lc_mode,lc_point_meta
+0.15,Left Lateral,0.601254618114659,0.19889753571804564,0.24862191964755703,False,False,0.6486971182468741,2,exorheic–inland,Urban,Ice/Snow
+2.759999999999997,Buried,-0.4112651400268077,0.10678156669679084,0.24862191964755703,False,False,0.5,1,exorheic–inland,Urban,Bare/Sparse
+16.409999999999865,Left Lateral,-0.6034332459759231,0.04138714176864625,0.20693570884323126,False,False,0.5080076961698166,1,exorheic–inland,Urban,Urban
+18.35999999999994,Left Lateral,-0.1281284543832666,0.4654280062230747,0.4654280062230747,False,False,0.5968245592103987,1,exorheic–inland,Urban,Bare/Sparse
+24.810000000000183,Unknown,-0.26623281668506427,0.17804367534835513,0.24862191964755703,False,False,0.722857849363097,1,exorheic–inland,Urban,Urban
