@@ -1,0 +1,2 @@
+river_id,n_river_points,river_length_km,n_fault_crossings,n_faults_analyzed,n_raw_significant,n_fdr_significant,n_truly_significant,geomorphic_confounded_pct,background_slope_mm_yr_per_km,background_r2,residual_std_mm_yr
+40417973,1566,45.42000000000096,334,22,2,1,0,,-0.031192050287867874,0.07860774179788424,1.3908777747415928

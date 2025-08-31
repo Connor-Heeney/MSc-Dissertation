@@ -1,0 +1,3 @@
+fault_distance_km,fault_type,raw_effect_mm_yr,p_value_raw,p_value_fdr,truly_significant,significant_fdr,window_km_used,n_faults_consolidated,drainage_class,lc_mode,lc_point_meta
+2.369999999999999,Reverse,0.31980411168512735,0.0013268104272835834,0.029189829400238836,False,True,1.2936846547631191,1,exorheic–inland,Urban,Urban
+37.89000000000067,Unknown,-0.7044298173416229,0.046193926027162976,0.39173532193603405,False,False,0.9249713988578208,1,exorheic–inland,Urban,Urban
