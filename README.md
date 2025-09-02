@@ -6,10 +6,6 @@ This repository contains the code and outputs for my MSc dissertation on **verti
 
 ```plaintext
 ├── src/                      # Source code
-│   ├── descriptive_stats/    # Scripts for descriptive statistics
-│   ├── gnss_benchmarking/    # Scripts for GNSS vs InSAR benchmarking
-│   ├── longitudinal_profile_overview/         # River profile analysis
-│   ├── longitudinal_profile_advanced_analytics/  # Step-detection, clustering, etc.
 │   ├── descriptive_stats.py
 │   ├── gnss_benchmarking.py
 │   ├── longitudinal_profile.py
